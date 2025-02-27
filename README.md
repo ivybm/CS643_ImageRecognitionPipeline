@@ -4,8 +4,6 @@ Ivy B. Manalang
 
 ibm@njit.edu
 
-Student ID: 31594140
-
 ## Contents
 ### FaceRecognition
 Contains a README.md, Java source file, and pom.xml
